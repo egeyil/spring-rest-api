@@ -1,0 +1,119 @@
+[
+  {
+    "displayName": "Ege",
+    "username": "ege1",
+    "email": "ege@example.com",
+    "role": "ADMIN",
+    "bio": "ege bio",
+    "birthDate": "1990-01-01T00:00:00",
+    "gender": "MALE",
+    "privacy": "PUBLIC"
+  },
+  {
+    "displayName": "Alice",
+    "username": "alice123",
+    "email": "alice@example.com",
+    "role": "REGULAR",
+    "bio": "Love to read books and travel.",
+    "birthDate": "1990-01-01T00:00:00",
+    "gender": "FEMALE",
+    "privacy": "PUBLIC"
+  },
+  {
+    "displayName": "Bob",
+    "username": "bob_the_builder",
+    "email": "bob@example.com",
+    "role": "REGULAR",
+    "bio": "Building my dreams one step at a time.",
+    "birthDate": "1985-05-15T00:00:00",
+    "gender": "MALE",
+    "privacy": "PRIVATE"
+  },
+  {
+    "displayName": "Charlie",
+    "username": "charlie_chap",
+    "email": "charlie@example.com",
+    "role": "REGULAR",
+    "emailVerified": true,
+    "bio": "Comedy enthusiast.",
+    "birthDate": "1995-02-20T00:00:00",
+    "gender": "OTHER",
+    "privacy": "PUBLIC"
+  },
+  {
+    "displayName": "Daisy",
+    "username": "daisy_flower",
+    "email": "daisy@example.com",
+    "role": "REGULAR",
+    "emailVerified": false,
+    "bio": "Gardening is my passion.",
+    "birthDate": "2000-03-30T00:00:00",
+    "gender": "FEMALE",
+    "privacy": "PUBLIC"
+  },
+  {
+    "displayName": "Edward",
+    "username": "edward_sci",
+    "email": "edward@example.com",
+    "role": "ADMIN",
+    "emailVerified": true,
+    "bio": "Science fiction writer.",
+    "birthDate": "1975-07-07T00:00:00",
+    "gender": "MALE",
+    "privacy": "PRIVATE"
+  },
+  {
+    "displayName": "Fiona",
+    "username": "fiona_fine",
+    "email": "fiona@example.com",
+    "role": "REGULAR",
+    "bio": "Fitness and wellness coach.",
+    "birthDate": "1992-08-18T00:00:00",
+    "gender": "FEMALE",
+    "privacy": "PUBLIC"
+  },
+  {
+    "displayName": "George",
+    "username": "george_gamer",
+    "email": "george@example.com",
+    "role": "REGULAR",
+    "emailVerified": true,
+    "bio": "Video game developer.",
+    "birthDate": "1988-09-22T00:00:00",
+    "gender": "MALE",
+    "privacy": "PUBLIC"
+  },
+  {
+    "displayName": "Hannah",
+    "username": "hannah_art",
+    "email": "hannah@example.com",
+    "role": "REGULAR",
+    "emailVerified": false,
+    "bio": "Artist and illustrator.",
+    "birthDate": "1999-11-11T00:00:00",
+    "gender": "FEMALE",
+    "privacy": "PRIVATE"
+  },
+  {
+    "displayName": "Ian",
+    "username": "ian_tech",
+    "email": "ian@example.com",
+    "role": "REGULAR",
+    "emailVerified": true,
+    "bio": "Tech enthusiast and blogger.",
+    "birthDate": "1983-12-05T00:00:00",
+    "gender": "MALE",
+    "privacy": "PUBLIC"
+  },
+  {
+    "displayName": "Julia",
+    "username": "julia_writer",
+    "email": "julia@example.com",
+    "role": "REGULAR",
+    "emailVerified": true,
+    "bio": "Aspiring novelist.",
+    "birthDate": "1994-04-25T00:00:00",
+    "gender": "FEMALE",
+    "privacy": "PUBLIC"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "name": "FANTASY",
+    "description": "Fantasy genre",
+    "imageUrl": "http://example.com/fantasy.jpg",
+    "color": "#FF5733"
+  },
+  {
+    "name": "SCIENCE_FICTION",
+    "description": "Science Fiction genre",
+    "imageUrl": "http://example.com/science_fiction.jpg",
+    "color": "#33FF57"
+  },
+  {
+    "name": "ROMANCE",
+    "description": "Romance genre",
+    "imageUrl": "http://example.com/romance.jpg",
+    "color": "#FF33A6"
+  },
+  {
+    "name": "MYSTERY",
+    "description": "Mystery genre",
+    "imageUrl": "http://example.com/mystery.jpg",
+    "color": "#5733FF"
+  },
+  {
+    "name": "THRILLER",
+    "description": "Thriller genre",
+    "imageUrl": "http://example.com/thriller.jpg",
+    "color": "#33A6FF"
+  },
+  {
+    "name": "HORROR",
+    "description": "Horror genre",
+    "imageUrl": "http://example.com/horror.jpg",
+    "color": "#FF3333"
+  },
+  {
+    "name": "HISTORICAL_FICTION",
+    "description": "Historical Fiction genre",
+    "imageUrl": "http://example.com/historical_fiction.jpg",
+    "color": "#A633FF"
+  },
+  {
+    "name": "YOUNG_ADULT",
+    "description": "Young Adult genre",
+    "imageUrl": "http://example.com/young_adult.jpg",
+    "color": "#FF5733"
+  },
+  {
+    "name": "CHILDREN",
+    "description": "Children genre",
+    "imageUrl": "http://example.com/children.jpg",
+    "color": "#33FF57"
+  },
+  {
+    "name": "NON_FICTION",
+    "description": "Non-Fiction genre",
+    "imageUrl": "http://example.com/non_fiction.jpg",
+    "color": "#FF33A6"
+  },
+  {
+    "name": "BIOGRAPHY",
+    "description": "Biography genre",
+    "imageUrl": "http://example.com/biography.jpg",
+    "color": "#5733FF"
+  },
+  {
+    "name": "MEMOIR",
+    "description": "Memoir genre",
+    "imageUrl": "http://example.com/memoir.jpg",
+    "color": "#33A6FF"
+  },
+  {
+    "name": "CLASSICS",
+    "description": "Classics genre",
+    "imageUrl": "http://example.com/classics.jpg",
+    "color": "#FF3333"
+  },
+  {
+    "name": "POETRY",
+    "description": "Poetry genre",
+    "imageUrl": "http://example.com/poetry.jpg",
+    "color": "#A633FF"
+  },
+  {
+    "name": "DRAMA",
+    "description": "Drama genre",
+    "imageUrl": "http://example.com/drama.jpg",
+    "color": "#FF5733"
+  },
+  {
+    "name": "SELF_HELP",
+    "description": "Self Help genre",
+    "imageUrl": "http://example.com/self_help.jpg",
+    "color": "#33FF57"
+  },
+  {
+    "name": "RELIGION",
+    "description": "Religion genre",
+    "imageUrl": "http://example.com/religion.jpg",
+    "color": "#FF33A6"
+  },
+  {
+    "name": "HISTORY",
+    "description": "History genre",
+    "imageUrl": "http://example.com/history.jpg",
+    "color": "#5733FF"
+  },
+  {
+    "name": "TRAVEL",
+    "description": "Travel genre",
+    "imageUrl": "http://example.com/travel.jpg",
+    "color": "#33A6FF"
+  },
+  {
+    "name": "COOKBOOK",
+    "description": "Cookbook genre",
+    "imageUrl": "http://example.com/cookbook.jpg",
+    "color": "#FF3333"
+  },
+  {
+    "name": "ART",
+    "description": "Art genre",
+    "imageUrl": "http://example.com/art.jpg",
+    "color": "#A633FF"
+  },
+  {
+    "name": "PHILOSOPHY",
+    "description": "Philosophy genre",
+    "imageUrl": "http://example.com/philosophy.jpg",
+    "color": "#FF5733"
+  },
+  {
+    "name": "SCIENCE",
+    "description": "Science genre",
+    "imageUrl": "http://example.com/science.jpg",
+    "color": "#33FF57"
+  },
+  {
+    "name": "HEALTH",
+    "description": "Health genre",
+    "imageUrl": "http://example.com/health.jpg",
+    "color": "#FF33A6"
+  },
+  {
+    "name": "SPORTS",
+    "description": "Sports genre",
+    "imageUrl": "http://example.com/sports.jpg",
+    "color": "#5733FF"
+  },
+  {
+    "name": "PARENTING",
+    "description": "Parenting genre",
+    "imageUrl": "http://example.com/parenting.jpg",
+    "color": "#33A6FF"
+  },
+  {
+    "name": "FAN_FICTION",
+    "description": "Fan Fiction genre",
+    "imageUrl": "http://example.com/fan_fiction.jpg",
+    "color": "#FF3333"
+  },
+  {
+    "name": "OTHER",
+    "description": "Other genre",
+    "imageUrl": "http://example.com/other.jpg",
+    "color": "#A633FF"
+  }
+]
